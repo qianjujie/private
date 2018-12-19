@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN)
 
-##1. Javascript
+## 1. Javascript
 - [calendar1](https://github.com/amsul/pickadate.js)
 - [calendar2](https://github.com/Baremetrics/calendar)
 - [深入浅出ES6](http://www.infoq.com/cn/es6-in-depth/)
@@ -34,7 +34,7 @@
 - [ Nicholas C. Zakas验证插件](http://eslint.org/)
 - []()
 
-##2. 移动Javascript开发
+## 2. 移动Javascript开发
 - [安卓微信QQ浏览器X5内核问题汇总](https://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
 - [无缝切换](http://www.swipejs.com/)
 - [滑屏效果](http://www.idangero.us/swiper)
@@ -62,11 +62,11 @@
 - []()
 
 
-##3. Html5
+## 3. Html5
 - [一起用HTML5 canvas做一个简单又骚气的粒子引擎](http://www.cnblogs.com/jation/p/4627155.html)
 - []()
 
-##4. CSS
+## 4. CSS
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
 - [多屏复杂动画CSS技巧三则](http://isux.tencent.com/css-animation-skills.html)
 - [CSS3 timing-function: steps() 详解](http://www.tuicool.com/articles/neqMVr)
@@ -76,12 +76,12 @@
 - [FLEXBOX](http://www.w3cplus.com/blog/tags/157.html)
 - []()
 
-##5. Angular
+## 5. Angular
 - [AngularJS常用插件与指令收集](http://chensd.com/2015-06/AngularJS-popular-Plugins-and-Directive.html)
 - [vue，angular，avalon这三种MVVM框架之间有什么优缺点？](http://www.zhihu.com/question/27791075)
 - []()
 
-##6. React, Vue
+## 6. React, Vue
 - [React使用总结](http://www.html-js.com/article/Reactjs%203046)
 - [Vue.js 常见问题 FAQ](http://www.html-js.com/article/Vuejs-Chinese-entry-Vuejs-FAQ-common-problems)
 - [如何评价 React Native](http://www.zhihu.com/question/27852694)
@@ -92,7 +92,7 @@
 - [这么多人吹捧ReactJS，但是真的好吗](http://www.zhihu.com/question/33631170)
 - []()
 
-##7. jQuery
+## 7. jQuery
 - [Image Map Resize](https://github.com/davidjbradshaw/image-map-resizer)
 - [jQuery源码剖析](http://www.w3ctech.com/topic/256#inArray)
 - [jQuery源码模块解构](http://davestewart.io/resources/javascript/deconstructed/jquery/)
@@ -103,31 +103,31 @@
 - [选择商品购物车飞入](http://www.helloweba.com/demo/fly/#)
 
 
-##8. 看书学习
+## 8. 看书学习
 - [学习新技能的37个最佳网站](http://codecloud.net/the-37-best-websites-to-learn-something-new-4772.html)
 - [百度前端学院](https://github.com/baidu-ife/ife)
 - []()
 
-##9. Git
+## 9. Git
 - [APDPlat是Application Product Development Platform的缩写，即应用级产品开发平台](https://github.com/ysc/APDPlat)
 - [如何在github上fork一个项目来贡献代码以及同步原作者的修改](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)(此文章中有图片现在的github网址有差异，操作上也有部分差需要注意，其怎样与原仓储作者保持同步操作有变化注意页面下面的文章描述中有链接交换仓储位置)
 - [如何使用github在线编辑及其语法介绍](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
 - [你不可不知的10个Github功能](http://www.php100.com/html/it/focus/2014/1117/7824.html)
 - []()
 
-##10. 创业 | 职业｜管理
+## 10. 创业 | 职业｜管理
 - [为什么有些行业精英不去选择创业](http://www.zhihu.com/question/24329639)
 - [在一家小公司只有我一个前端开发，该如何自我提升](http://www.zhihu.com/question/32099504)
 - [什么样的前端技术 leader 是称职的](http://www.zhihu.com/question/31462342)
 - [在什么情况下，公司创始人会被踢出董事局](http://www.zhihu.com/question/32291066)
 - [怎样做才可以带出一支优秀的团队](http://www.zhihu.com/question/19602067)
 
-##11. IDE，编辑器，调试等工具类
+## 11. IDE，编辑器，调试等工具类
 - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
 - [chrome浏览器开发者工具使用入门提高](http://www.cnblogs.com/constantince/p/4565261.html)
 - []()
 
-##12. 前端及架构工程化等
+## 12. 前端及架构工程化等
 - [百度FIS3发布了](http://fex-team.github.io/fis3/)
 - [Muffin=FIS+Browserify](http://fex.baidu.com/blog/2015/01/fis-muffin/)
 - [SeaJS 和 Browserify 的模块化方案有哪些区别](http://www.zhihu.com/question/20941305)
@@ -139,21 +139,21 @@
 - []()
 
 
-##13. sass
+## 13. sass
 - []()
 
-##14. 工作 | 协同
+## 14. 工作 | 协同
 - []()
 
-##15. Nodejs
+## 15. Nodejs
 
 - [fibjs 对比 nodejs 有哪些优点和缺点](http://www.zhihu.com/question/26472351)
 - [youtube上不错的node入门教程](https://www.youtube.com/watch?v=_D2w0voFlEk)
-##16. UI
+## 16. UI
 - [一些有用的 Bootstrap 主题和插件](https://github.com/lvwzhen/BootstrapHub)
 - []()
 
-##17. 性能优化教程
+## 17. 性能优化教程
 
 - [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
 - [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
@@ -203,23 +203,23 @@
 - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
 
 
-###18. 面试相关
+## 18. 面试相关
 - [2015年各大公司的面试题提前透漏（公钥）几道](div.io/topic/1166)
 - []()
 
-###19. mac ios
+## 19. mac ios
 - [iOS提高效率的方法和工具](http://lcepy.github.io/2015/07/14/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/) 
 
-###20.如何查看各个浏览器的 user agent stylesheet ？
+## 20.如何查看各个浏览器的 user agent stylesheet ？
 Firefox (Gecko):[http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css](http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css)
 Chrome/Safari (WebKit):[http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
 Internet Explorer (Trident), all versions: [http://www.iecss.com/](http://www.iecss.com/)
 
-###21. 英语
+## 21. 英语
 - [欧路词典](http://www.eudic.net/eudic/windows.aspx)
 - []()
 
-###21. 其它
+## 21. 其它
 - [http协议分析工具](http://www.cnblogs.com/klguang/p/4624333.html)
 - [Android 常用开发工具以及Mac常用软件](http://codingfish.top/2015/07/07/android-developer-tools-list/)
 - [参加 ShenJS (jsconf China 2015) 是个什么样的体验](http://www.zhihu.com/question/32101888)
@@ -227,5 +227,5 @@ Internet Explorer (Trident), all versions: [http://www.iecss.com/](http://www.ie
 - [PHP 7.0 升级备注](https://linux.cn/article-5840-1.html)
 - []()
 
-###22. underscore
+## 22. underscore
 - [underscore.js源码分析](http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)
